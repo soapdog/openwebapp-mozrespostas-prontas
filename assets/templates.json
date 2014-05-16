@@ -1,0 +1,10 @@
+[
+    {
+        "titulo": "Como começar a desenvolver para Firefox OS",
+        "arquivo": "iniciar_dev_fxos.md"
+    },
+    {
+        "titulo": "Colaborando com a comunidade",
+        "arquivo": "colaborando_comunidade.md"
+    }
+]

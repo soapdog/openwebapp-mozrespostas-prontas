@@ -1,0 +1,14 @@
+{
+  "name": "webos-lib",
+  "homepage": "https://github.com/soapdog/webos-lib",
+  "_release": "f6aa4016ec",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f6aa4016ec431694e0f440877db679c2f9d51c15"
+  },
+  "_source": "git://github.com/soapdog/webos-lib.git",
+  "_target": "*",
+  "_originalSource": "soapdog/webos-lib",
+  "_direct": true
+}
