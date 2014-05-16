@@ -73,6 +73,6 @@ enyo.kind({
         this.$.myDialog.hide();
     },
     github: function() {
-        window.open("");
+        window.open("https://github.com/soapdog/mozbr-templates");
     }
 });
