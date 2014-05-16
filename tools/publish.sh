@@ -4,6 +4,7 @@ echo "Deploy..."
 
 ./tools/deploy.sh
 
+git add -A
 git commit -am "deploying..."
 
 echo "Publish..."
