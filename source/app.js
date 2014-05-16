@@ -31,6 +31,7 @@ enyo.kind({
 			kind: "enyo.Panels",
 			fit: true,
 			arrangerKind: "CollapsingArranger",
+            animate: true,
 			components: [
 				{kind: "mozbr.Menu"},
                 {kind: "mozbr.TemplateContent", name: "content"}
@@ -46,6 +47,11 @@ enyo.kind({
 
         x.response(enyo.bind(this, function(data, obj) {
             this.$.content.carregarTemplate({titulo: inEvent.titulo, content: obj});
+            if (window.innerWidth < 640) {
+                this.$.panels.getAnimator().setDuration(1000);
+                var i = this.$.panels.selectPanelByName("content");
+                this.$.panels.next();
+            }
         }));
 
         x.go();
