@@ -42,7 +42,7 @@ enyo.kind({
         this.log("pegando arquivo da template: " + inEvent.arquivo);
 
         var x = new enyo.Ajax({
-            url: "/assets/templates/" + inEvent.arquivo
+            url: "assets/templates/" + inEvent.arquivo
         });
 
         x.response(enyo.bind(this, function(data, obj) {

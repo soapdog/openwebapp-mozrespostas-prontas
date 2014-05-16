@@ -32,7 +32,7 @@ enyo.kind({
         this.log("pegando JSON de templates");
 
         var x = new enyo.Ajax({
-            url: "/assets/templates.json",
+            url: "assets/templates.json",
             handleAs: "json"
         });
 
