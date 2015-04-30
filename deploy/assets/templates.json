@@ -1,5 +1,9 @@
 [
     {
+        "titulo": "Conheça a Comunidade",
+        "arquivo": "interesse_comunidade.md"
+    },
+    {
         "titulo": "Como começar a desenvolver para Firefox OS",
         "arquivo": "iniciar_dev_fxos.md"
     },

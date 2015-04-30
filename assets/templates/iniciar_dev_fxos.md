@@ -6,6 +6,10 @@ Uma boa introdução ao *workflow* de desenvolvimento para Firefox OS pode ser e
 
 Este livro o guiará por todos os passos necessários para preparar seu computador para desenvolvimento até o passo final de enviar seu app para o Firefox Marketplace.
 
+Alias falando sobre livros, existe um site que lista todos os livros sobre Firefox OS:
+
+  http://firefoxosbooks.org
+
 O Firefox OS possui um conjunto de APIs para acesso ao hardware e facilidades do aparelho que é coletivamente chamado de "WebAPI". O livro acima não documenta essas APIs pois é um Guia Rápido e não um Guia Completo ou Manual de Referência porém todas essas APIs estão muito bem documentadas em:
 
   https://developer.mozilla.org/en-US/docs/WebAPI
