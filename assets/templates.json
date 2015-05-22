@@ -14,5 +14,9 @@
     {
         "titulo": "Colaborando com o SuMo",
         "arquivo": "colaborando_comunidade_suporte.md"
+    },
+    {
+      "titulo": "Colaborando com o Gaia e WebAPI",
+      "arquivo": "colaborando_gaia.md"
     }
 ]
