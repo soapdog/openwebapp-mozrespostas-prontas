@@ -1,12 +1,12 @@
 Olá,
 
-Você está recebendo esse email pois deixou o seu endereço com a gente com interesse em aprender mais sobre como contribuir para a Mozilla.
+Você está recebendo esse email pois deixou o seu endereço com a gente com interesse em aprender mais sobre como contribuir com a Mozilla.
 
 Site da comunidade Brasileira: http://mozillabrasil.org.br/
 
 A Mozilla é uma comunidade global de pessoas com o objetivo de manter a internet segura, aberta e feita por todos para todos. Tendo isso como rumo temos vários projetos interessantes onde vocês podem contribuir, lembrando que você não precisa ser desenvolvedor para contribuir com a Mozilla, existem diversas formas de ajudar tais como tradução, suporte, testes e organização. Abaixo vamos listar alguns projetos interessantes (lembrando que existem outros projetos também):
 
-* Webmaker: é o projeto educacional da Mozilla que busca ensinar como usar e fazer web para todas as pessoas independente de idade ou background. Se pararmos para pensar que a Web é o unico meio de comunicação de massa onde todos podemos falar e atingir milhões de pessoas fica fácil entender por que é importante que todo mundo aprenda a fazer Web. A Mozilla utiliza métodos informais para o ensino da Web baseando tudo em workshops participativos e mentoria. Para saber mais aponte o seu navegador para http://webmaker.org
+* Mozilla Clubs: é o projeto educacional da Mozilla que busca ensinar como ler, escrever e participar na web para todas as pessoas independente de idade ou background. Se pararmos para pensar que a Web é o unico meio de comunicação de massa onde todos podemos falar e atingir milhões de pessoas fica fácil entender por que é importante que todo mundo aprenda a fazer Web. A Mozilla utiliza métodos informais para o ensino da Web baseando tudo em workshops participativos e mentoria. Para saber mais aponte o seu navegador para http://teach.mozilla.org/clubs
 
 * Firefox: é o único navegador independente do mundo. É a nossa porta de entrada para a Web construído de forma aberta e colaborativa. O Firefox é feito para você e defende os seus valores na Web. Para saber mais sobre o Firefox vá para http://firefox.org
 
@@ -22,9 +22,9 @@ Você pode ter acesso a esses canais de comunicação indo em:
 
 http://mozillabrasil.org.br/participe
 
-Para aqueles que quiserem participar da nossa comunidade, eu recomendo assinar a lista geral da comunidade brasileira que pode ser acessada no endereço acima e então enviar um email se apresentando contando quem você é e qual área te interessa mais. Tudo bem ainda não ter uma área de interesse, a Mozilla é enorme e existem inúmeros projetos para participar, aqui você vai encontrar pessoas com os mesmos interesses e construir algo muito bacana juntos.
+Para aqueles que quiserem participar da nossa comunidade, recomendamos assinar a lista geral da comunidade brasileira que pode ser acessada no endereço acima e então enviar um email se apresentando contando quem você é e qual área te interessa mais. Tudo bem ainda não ter uma área de interesse, a Mozilla é enorme e existem inúmeros projetos para participar, aqui você vai encontrar pessoas com os mesmos interesses e construir algo muito bacana juntos.
 
 Desde já, todos nós e a Web inteira, agradecemos o interesse de vocês em saber mais sobre a gente e nos ajudar a manter a Web livre e feita por todos e para todos!
 
 Abs
-Comunidade Mozilla Brasil 
+Comunidade Mozilla Brasil

@@ -18,7 +18,8 @@ enyo.kind({
         ]},
         {kind: "onyx.MoreToolbar", components: [
             {kind: "onyx.Grabber"},
-            {kind: "onyx.Button", content: "Enviar Email", ontap: "sendMail"}
+            {kind: "onyx.Button", content: "Enviar Email", ontap: "sendMail"},
+            {kind: "onyx.Button", content: "Copiar", ontap: "copyText"}
         ]}
     ],
     carregarTemplate: function(obj) {
@@ -42,5 +43,14 @@ enyo.kind({
             this.log("Navegador não suporta web activities");
             window.location = "mailto:?subject=" + encodeURI(titulo) + "&body=" + encodeURI(conteudo);
         }
+    },
+    copyText: function() {
+      var conteudoEl = this.$.conteudo.hasNode();
+
+      conteudoEl.select();
+      var res = document.execCommand("copy");
+      conteudoEl.setSelectionRange(0,0);
+      conteudoEl.blur();
+
     }
 });

@@ -34,7 +34,7 @@ enyo.kind({
             animate: true,
 			components: [
 				{kind: "mozbr.Menu"},
-                {kind: "mozbr.TemplateContent", name: "content"}
+        {kind: "mozbr.TemplateContent", name: "content"}
 			]
 		}
 	],
