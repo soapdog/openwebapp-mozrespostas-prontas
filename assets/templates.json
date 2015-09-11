@@ -8,6 +8,10 @@
         "arquivo": "iniciar_dev_fxos.md"
     },
     {
+        "titulo": "Como começar a desenvolver para Firefox OS com Apache Cordova",
+        "arquivo": "dev_cordova.md"
+    },
+    {
         "titulo": "Colaborando com a comunidade",
         "arquivo": "colaborando_comunidade.md"
     },
