@@ -22,5 +22,9 @@
     {
       "titulo": "Colaborando com o Gaia e WebAPI",
       "arquivo": "colaborando_gaia.md"
+    },
+    {
+      "titulo": "Colaborando com a Garantia de Qualidade",
+      "arquivo": "colaborando_garantia_qualidade.md"
     }
 ]
