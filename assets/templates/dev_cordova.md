@@ -1,7 +1,7 @@
 # Apache Cordova para FirefoxOS #
 
 ## Introdução ##
-Apache Cordova é um framework de desenvolvimento mobile para multiplataformas, ou seja, ele permite o desenvolvimento com um único código(HTML, CSS e JS) para quase todos os sistemas operacionais (SO) mobile do mercado, evitando assim o retrabalho de desenvolver códigos nativos de cada SO, barateando o custo do desenvolvimento.
+Apache Cordova é uma solução de desenvolvimento mobile para multiplataformas, ou seja, ele permite o desenvolvimento com um único código(HTML, CSS e JS) para quase todos os sistemas operacionais (SO) mobile do mercado, evitando assim o retrabalho de desenvolver códigos nativos de cada SO, barateando o custo do desenvolvimento.
 Se você chegou até aqui deve saber que o FirefoxOS é baseado em JS também, mas então porque desenvolver em Cordova e não em FirefoxOS nativo? Outras plataformas estão a mais tempo no mercado e com uma base grande de usuários, porque não utilizar isso como um incentivador para dar suporte ao FirefoxOS? Com uma linha de comando você pode adicionar o FirefoxOS no seu projeto sem nenhum custo adicional.
 
 # Requisitos ##
