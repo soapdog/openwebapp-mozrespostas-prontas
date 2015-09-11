@@ -40,11 +40,11 @@ Pronto!! Só dar play em seu emulador que seu app de Hello Word em Cordova funci
 
 ## Plugins ##
 
-Para acessar as features e informações dos aparelhos é preciso que instale em seu projetos o plugin referente a qual features deseja utilizar, o projeto Cordova mantém alguns plugins, que são:
+Para acessar as features e informações dos aparelhos é preciso que instale em seu projeto o plugin referente a qual feature deseja utilizar, o projeto Cordova mantém alguns plugins, que são:
 
 -  Lista de Plugins: http://cordova.apache.org/docs/en/5.0.0/cordova_plugins_pluginapis.md.html#Plugin%20APIs
 
-Para nosso exemplo vamos utilizar o plugin “Device”:
+Em nosso exemplo vamos utilizar o plugin “Device”, que nos retorna algumas informações como, qual plataforma executada, qual o modelo do aparalho, qual a versão do Cordova, qual o UUID e outras infos:
 
     $ cordova plugin add cordova-plugin-device
 
@@ -52,11 +52,11 @@ Lembre-se a documentação é sua melhor amiga, para saber como utilizar esse pl
 
 ## Testar Alterações ##
 
-Lembre-se que toda alteração em seu aplicativo é preciso dar o build, para que o Cordova exporte para todas as plataformas as alterações, para fazer isso apenas no FirefoxOS digite:
+Toda alteração em seu aplicativo é preciso dar o build, para que o Cordova exporte para todas as plataformas as alterações, para fazer isso apenas no FirefoxOS digite:
 
     $ cordova build firefoxos
 
-Lembre-se caso não coloque firefoxos no final ele vai dar o build em todas as plataformas inseridas, o que pode demorar um tanto, aconselho para um desenvolvimento mais rápido fazer o build separadamente de cada plataforma.
+Caso não coloque firefoxos no final ele vai dar o build em todas as plataformas inseridas, o que pode demorar um tanto, aconselho para um desenvolvimento mais rápido fazer o build separadamente de cada plataforma.
 Agora no emulador basta dar um refresh no seu app que as alterações serão instaladas no emulador.
 
 ## Referências ##
