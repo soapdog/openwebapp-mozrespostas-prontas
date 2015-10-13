@@ -4,7 +4,7 @@ Apenas uma coleção de respostas prontas para utilizar nos emails da [Mozilla B
 
 ## Para utilizar o app
 
-O app está disponível em [http://soapdog.github.io/mozbr-templates/](http://soapdog.github.io/mozbr-templates/) ou pode ser instalado em um aparelho com Firefox OS ou WebRT. A versão final está dentro da pasta `deploy`.
+O app está disponível em [http://soapdog.github.io/openwebapp-mozrespostas-prontas/](http://soapdog.github.io/openwebapp-mozrespostas-prontas) ou pode ser instalado em um aparelho com Firefox OS ou WebRT. A versão final está dentro da pasta `deploy`.
 
 ## Contribuindo
 
