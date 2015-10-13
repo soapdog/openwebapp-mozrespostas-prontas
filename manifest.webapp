@@ -1,0 +1,16 @@
+{
+  "version": "0.1.0",
+  "name": "MozResposta Pronta",
+  "description": "Respostas prontas para email.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "installs_allowed_from": ["*"],
+  "permissions": {
+    "systemXHR": {},
+    "network-http": {},
+    "network-tcp": {}
+  },
+  "type": "privileged"
+}

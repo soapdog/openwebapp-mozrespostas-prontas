@@ -39,3 +39,6 @@ while [ "$1" != "" ]; do
 	esac
 	shift
 done
+
+# Copy manifest
+cp "$SRC/manifest.webapp" "$SRC/deploy"

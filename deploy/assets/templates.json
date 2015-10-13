@@ -8,6 +8,10 @@
         "arquivo": "iniciar_dev_fxos.md"
     },
     {
+        "titulo": "Como começar a desenvolver para Firefox OS com Apache Cordova",
+        "arquivo": "dev_cordova.md"
+    },
+    {
         "titulo": "Colaborando com a comunidade",
         "arquivo": "colaborando_comunidade.md"
     },
@@ -18,5 +22,9 @@
     {
       "titulo": "Colaborando com o Gaia e WebAPI",
       "arquivo": "colaborando_gaia.md"
+    },
+    {
+      "titulo": "Colaborando com a Garantia de Qualidade",
+      "arquivo": "colaborando_garantia_qualidade.md"
     }
 ]

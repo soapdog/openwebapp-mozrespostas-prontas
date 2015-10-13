@@ -19,9 +19,17 @@ enyo.kind({
         {kind: "onyx.MoreToolbar", components: [
             {kind: "onyx.Grabber"},
             {kind: "onyx.Button", content: "Enviar Email", ontap: "sendMail"},
-            {kind: "onyx.Button", content: "Copiar", ontap: "copyText"}
+            {kind: "onyx.Button", name: "copyButton", content: "Copiar", ontap: "copyText"}
         ]}
     ],
+    create: function() {
+        this.inherited(arguments);
+
+        if (enyo.platform.platformName == "firefoxOS") {
+            // no support for copy and paste.
+            this.$.copyButton.hide();
+        }
+    },
     carregarTemplate: function(obj) {
         this.$.titulo.setContent(obj.titulo);
         this.$.conteudo.setValue(obj.content);
@@ -32,13 +40,26 @@ enyo.kind({
         var conteudo = this.$.conteudo.getValue();
 
         if ("MozActivity" in window) {
-            var x = new MozActivity({
+            this.log("MozActivity is supported on this platform");
+            var activity = new MozActivity({
                 name: "new",
                 data: {
-                    type: "email",
+                    type: "mail",
                     url: "mailto:?subject=" + encodeURI(titulo) + "&body=" + encodeURI(conteudo)
                 }
             });
+
+
+            activity.onsuccess = function() {
+                console.log("Activity successfuly handled");
+
+            };
+
+            activity.onerror = function() {
+                console.log("The activity encouter en error: " + this.error);
+            };
+
+            this.log("Was it handled?!");
         } else {
             this.log("Navegador não suporta web activities");
             window.location = "mailto:?subject=" + encodeURI(titulo) + "&body=" + encodeURI(conteudo);

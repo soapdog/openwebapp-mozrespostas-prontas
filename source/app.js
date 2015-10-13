@@ -13,7 +13,7 @@ enyo.kind({
 	components: [
 		{
 			kind: "PortsHeader",
-			title: "Templates para Email",
+			title: "MozRespostas Prontas",
 			taglines: [
 				"Amamos bikesheding",
 				"Olha Pizza",
