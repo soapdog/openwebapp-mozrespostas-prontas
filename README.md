@@ -19,3 +19,5 @@ Nessa tela você pode escolher qual das respostas prontas deseja utilizar
 
 ## Tela de conteúdo
 Nesta tela você vê o conteúdo da resposta pronta e com um clique envia um email.
+
+![Conteúdo](screen2.png)
