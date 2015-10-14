@@ -2,44 +2,44 @@ A nossa prioridade está sempre na tradução de documentação, seja de suporte
 
 Esporadicamente há a necessidade de formar equipes temporárias de trabalho intensivo para projetos especiais, então não deixe de acompanhar a nossa lista de discussão[1].
 
-No final da lista há também ferramentas e documentação de leitura obrigatória para novos localizadores.
+No final da lista há também ferramentas e documentação de leitura obrigatória para novos tradutores.
 
-# Documentação de Suporte
+Documentação de Suporte
 
 O SUMO, o portal de suporte da Mozilla, é a principal ferramenta de suporte aos milhões de usuários do Firefox. Ele conta com diversos artigos, tutoriais e dicas sobre o Firefox nas mais diversas situações, e também conta com a ajuda de voluntários para manter esse conteúdo atualizado para o nosso idioma.
 
     Veja como ajudar o SUMO [2]
     Lista de discussão do SUMO pt-BR [3]
 
-# Documentação de Desenvolvimento 
+Documentação de Desenvolvimento 
 
-## MDN - Mozilla Developer Network 
+MDN - Mozilla Developer Network 
 
 O MDN, Mozilla Developer Network, é a rede de documentação de desenvolvimento da Mozilla. Ele abrange todas as áreas de desenvolvimento para desenvolvedores de sites, aplicativos web e complementos para o Firefox e Firefox OS, como JavaScript, CSS, HTML5 (novas tecnologias como Áudio, Vídeo, Geolocalização), XUL (linguagem de interface da Mozilla) e APIs do Gecko e B2G, oferecendo milhares de artigos, tutoriais, guias passo a passo e demos. Basta registrar-se, encontrar um artigo do seu interesse e adicionar uma tradução.
 
     Passo a passo para traduzir os artigos da MDN [4]
     Mozilla Developer Network [5]
 
-## Websites Mozilla
+Websites Mozilla
 
 A Mozilla possui em sua estrutura diversos websites diferentes, com diferentes propósitos. Além do SUMO e do MDN, há o próprio portal da Mozilla, além de outros websites e serviços on-line. A localização dos websites Mozilla é feita basicamente pelo uso do controle de versões SVN. Os arquivos podem ser encontrados no repositório SVN.
 
     Repositório SVN [6]
 
-## mozilla.org
+mozilla.org
 
 O portal da Mozilla está aos poucos permitindo que algumas seções aceitem tradução. A comunidade Mozilla criou uma wish list das principais páginas que gostariam que fossem traduzidas. Isso não significa necessariamente que elas já estão disponíveis para tradução.
 
     mozilla.org [7]
 
-## Mozilla Add-ons (AMO) e Marketplace
+Mozilla Add-ons (AMO) e Marketplace
 
 O AMO é o portal de complementos para os produtos Mozilla, oferecendo milhares de extras para personalizar as funcionalidades e estilo do Firefox, Firefox OS, Thunderbird e SeaMonkey. A tradução da sua interface (que é compartilhada com o Marketplace) é mantida pela equipe de localização da Comunidade Mozilla Brasil. O conteúdo (e idioma) dos complementos e aplicativos disponíveis são de responsabilidade de seus respectivos autores.
 
     Mozilla Add-ons [8]
     Marketplace [9]
 
-## Serviços on-line e outros websites
+Serviços on-line e outros websites
 
 A Mozilla conta com vários serviços on-line, como o Firefox Input, que registra as opiniões colhidas de usuários do Firefox, ou o Persona (antigo BrowserID), serviço de identificação on-line usado em praticamente todos os websites e serviços Mozilla.
 
@@ -51,21 +51,21 @@ Websites como o do programa Affiliates ou o Mozillians também têm sua traduç�
     Afiliados Firefox [12]
     Mozillians [13]
 
-# Produtos Mozilla
+Produtos Mozilla
 
 A localização dos produtos Mozilla é feita basicamente pelo uso do controle de versões Mercurial. Os arquivos podem ser encontrados no repositório hg.
 
     Repositório hg [14]
 
-# Documentos e Ferramentas para localizadores
+Documentos e Ferramentas para localizadores
 
-## Documentação e orientações
+Documentação e orientações
 
     Glossário [15]
     Orientações para a localização Web da Mozilla (Em inglês) [16]
     Informações gerais sobre o projeto de l10n da Mozilla [17]
 
-## Ferramentas
+Ferramentas
 
 Verbatim é um servidor pootle que serve como interface de tradução para os servidores de controle de versão (SVN). Ele é usado para a localização e tradução de vários dos projetos on-line da Mozilla.
 
@@ -79,7 +79,7 @@ UmPortugues.com é um serviço de verificação ortográfica que segue a nova gr
 
     UmPortugues.com [20]
 
-# Equipe
+Equipe
 
     Equipe brasileira [21]
 
